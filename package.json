@@ -1,7 +1,7 @@
 {
-  "name": "chat-app",
+  "name": "talk-a-tive",
   "version": "1.0.0",
-  "description": "",
+  "description": "Talk-A-Tive",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
@@ -12,7 +12,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Akshit Garg",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -24,5 +24,14 @@
     "mongoose": "^5.12.9",
     "nodemon": "^2.0.7",
     "socket.io": "^4.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshitgarg08/Chat-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akshitgarg08/Chat-App/issues"
+  },
+  "homepage": "https://github.com/akshitgarg08/Chat-App#readme"
 }

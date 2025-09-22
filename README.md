@@ -1,5 +1,5 @@
 
 Talk-A-Tive
 
-Talk-a-tive is a Full Stack Chatting App.
+Talk-A-tive is a Full Stack Chatting App.
 

@@ -1,7 +1,9 @@
 🗣️ Talk-A-Tive: A Full-Stack Real-Time Chat Application
 
+Talk-A-Tive
 Welcome to Talk-A-Tive, a modern, full-stack chat application designed to facilitate seamless real-time communication. Built with a focus on performance and scalability, this app leverages the power of Node.js, Express.js, and Socket.IO to deliver an engaging user experience.
 
+Talk-a-tive is a Full Stack Chatting App.
 🚀 Features
 
 Real-Time Messaging: Instant message delivery using WebSockets.
@@ -24,4 +26,3 @@ Real-Time Communication: Socket.IO
 
 Database: MongoDB
 
-Authentication: JWT (JSON Web Tokens)

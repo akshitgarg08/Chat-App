@@ -73,7 +73,7 @@ The backend exposes a RESTful API to manage the core application state, interfac
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AbhishekMali21/Chat-App-main.git](https://github.com/AbhishekMali21/Chat-App-main.git)
+git clone [https://github.com/akshitgarg08/Chat-App.git](https://github.com/akshitgarg08/Chat-App.git)
 cd Chat-App-main
 ```
 
